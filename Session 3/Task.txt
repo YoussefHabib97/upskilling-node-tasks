@@ -1,0 +1,9 @@
+Create a function that takes a number from the user and prints from 1 to the next number.
+
+✅ Calculates:
+
+Sum of numbers
+
+Number of even numbers
+
+Number of odd numbers
