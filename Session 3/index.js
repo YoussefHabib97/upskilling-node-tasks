@@ -14,9 +14,9 @@ console.log(
   "Total sum: " +
     totalSum +
     "\n" +
-    "Even number quantity: " +
+    "Even numbers quantity: " +
     evenNumbersIncrements +
     "\n" +
-    "Odd number quantity: " +
+    "Odd numbers quantity: " +
     oddNumbersIncrements,
 );
