@@ -1,6 +1,6 @@
 # Upskilling Backend Course Tasks – Node.js
 
-![Logo Placeholder](../upskilling-node-tasks/logo.jpg)
+![Logo Placeholder](logo.jpg)
 
 ## 📌 Overview
 
